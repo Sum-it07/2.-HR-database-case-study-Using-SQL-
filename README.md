@@ -92,11 +92,11 @@ The solutions include:
 -GROUP BY e.first_name, e.last_name
 -HAVING COUNT(DISTINCT jh.job_id) > 1;
 
--- GitHub Repository Setup
+## GitHub Repository Setup
 -- 1. Create a GitHub repository: 2.-HR-database-case-study-Using-SQL-
 -- 2. Upload SQL code manually or push from local:
 
--- Clone the repository
+Clone the repository
 git clone https://github.com/Sum-it07/2.-HR-database-case-study-Using-SQL-.git
 
 -- Navigate to the project directory
@@ -116,3 +116,7 @@ git push origin main
 git clone https://github.com/Sum-it07/2.-HR-database-case-study-Using-SQL-.git
 
 -- Import the HR database into MySQL and run queries
+
+
+📌 **Author:** _Sum-it07_  
+📌 **GitHub:** [Sum-it07](https://github.com/Sum-it07)
