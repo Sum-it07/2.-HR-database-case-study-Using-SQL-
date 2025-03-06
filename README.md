@@ -93,11 +93,11 @@ The solutions include:
 -HAVING COUNT(DISTINCT jh.job_id) > 1;
 
 -- GitHub Repository Setup
--- 1. Create a GitHub repository: 2.-HR-database-case-study-Using-SQL
+-- 1. Create a GitHub repository: 2.-HR-database-case-study-Using-SQL-
 -- 2. Upload SQL code manually or push from local:
 
 -- Clone the repository
-git clone https://github.com/Sum-it07/2.-HR-database-case-study-Using-SQL.git
+git clone https://github.com/Sum-it07/2.-HR-database-case-study-Using-SQL-.git
 
 -- Navigate to the project directory
 cd hr-database-sql-project
@@ -113,6 +113,6 @@ git push origin main
 
 -- How to Use
 -- Clone this repository
-git clone https://github.com/Sum-it07/2.-HR-database-case-study-Using-SQL.git
+git clone https://github.com/Sum-it07/2.-HR-database-case-study-Using-SQL-.git
 
 -- Import the HR database into MySQL and run queries
